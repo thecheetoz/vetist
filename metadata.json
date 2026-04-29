@@ -1,0 +1,8 @@
+{
+  "name": "Vetİst - 7/24 Nöbetçi Veteriner Haritası",
+  "description": "İstanbul genelindeki 7/24 açık veteriner kliniklerini kolayca bulmanızı sağlayan modern harita uygulaması.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
